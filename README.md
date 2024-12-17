@@ -7,7 +7,6 @@
 5. Abra o terminal do VSCode e digite os seguites comandos
 
 ```
-bash
 python3 -m venv venv
 venv/Scripts/activate
 pip install google-genai
@@ -17,7 +16,6 @@ deactivate
 Caso esteja no Linux
 
 ```
-bash
 python3 -m venv venv
 source venv/bin/activate
 pip install google-genai
